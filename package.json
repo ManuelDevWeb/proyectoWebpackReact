@@ -3,7 +3,7 @@
         "react": "^17.0.2",
         "react-dom": "^17.0.2"
     },
-    "name": "proyectoWebpackReact",
+    "name": "proyectowebpackreact",
     "description": "",
     "version": "1.0.0",
     "main": "index.js",
@@ -29,8 +29,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "webpack serve --config webpack.config.dev.js",
-        "build": "webpack --config webpack.config.js",
-        ""
+        "build": "webpack --config webpack.config.js"
     },
     "repository": {
         "type": "git",
